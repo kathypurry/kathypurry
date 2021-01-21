@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![woof](https://i.redd.it/f081gjw5ckb21.jpg)
 <!--
 **kathypurry/kathypurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
