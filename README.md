@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![woof](https://www.k9web.com/wp-content/uploads/2019/05/pomsky-puppy-370x452.jpg)
+![brand](https://live.staticflickr.com/65535/50867887501_529c8496de_c.jpg)
+
+I am a Fullstack web developer versed in Javascript, HTML, and CSS. As a selectee in the competitive Pursuit Fellowship for rising developers in NYC, I and am hoping to be able to use my new developer skillset to achieve a new career and lifelong goals.
+
 <!--
 **kathypurry/kathypurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
