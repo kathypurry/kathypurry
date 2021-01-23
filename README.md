@@ -2,6 +2,8 @@
 
 I am a Fullstack web developer versed in Javascript, HTML, and CSS. As a selectee in the competitive Pursuit Fellowship for rising developers in NYC, I and am hoping to be able to use my new developer skillset to achieve a new career and lifelong goals.
 
+In my off time, I am a pc gamer and a full time mom. My favorite game category is MMORPGS and FPS games. (World of Warcraft, Final Fantasy XIV, Overwatch, etc.)
+
 <!--
 **kathypurry/kathypurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
